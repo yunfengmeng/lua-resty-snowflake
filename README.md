@@ -1,6 +1,6 @@
 # Name
 
-lua-resty-snowflack - lua Twitter-Snowflake implement for the ngx_lua
+lua-resty-snowflake - lua Twitter-Snowflake implement for the ngx_lua
 # Status
 
 This library is considered production ready.
